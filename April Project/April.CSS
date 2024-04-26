@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+
+.my-button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  left: 50%;
+  position: relative;
+}
+
+h1 {
+  font-style: italic;
+  color: aliceblue;
+  text-align: center;
+}
+
+p {
+  color: aliceblue;
+  text-align: center;
+}
+
+.container1 {
+  display: inline-flex;
+}
+
+.container2 {
+  display: inline-flex;
+}
+
+pic4 {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  display: inline-flex;
+}
+
+h2 {
+  color: antiquewhite;
+  position: relative;
+}
+
+.my-button {
+  text-align: center;
+}
+
+#pic0 {
+  display: inline-flex;
+}
